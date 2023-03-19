@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-34 | [E - Interview](https://codeforces.com/contest/1807/problem/E) | [GNU C++17](./codeforces/1807/E.cpp) | `binary search` `implementation` `interactive` | Mar/19/2023 21:47 | 
-33 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [GNU C++17](./codeforces/1807/G2.cpp) | `bitmasks` `data structures` `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:27 | 
-32 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [GNU C++17](./codeforces/1807/G1.cpp) | `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:25 | 
-31 | [D - Odd Queries](https://codeforces.com/contest/1807/problem/D) | [GNU C++17](./codeforces/1807/D.cpp) | `data structures` `implementation` | Mar/19/2023 20:51 | 
+35 | [E - Interview](https://codeforces.com/contest/1807/problem/E) | [GNU C++17](./codeforces/1807/E.cpp) | `binary search` `implementation` `interactive` | Mar/19/2023 21:47 | 
+34 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [GNU C++17](./codeforces/1807/G2.cpp) | `bitmasks` `data structures` `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:27 | 
+33 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [GNU C++17](./codeforces/1807/G1.cpp) | `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:25 | 
+32 | [D - Odd Queries](https://codeforces.com/contest/1807/problem/D) | [GNU C++17](./codeforces/1807/D.cpp) | `data structures` `implementation` | Mar/19/2023 20:51 | 
+31 | [C - Find and Replace](https://codeforces.com/contest/1807/problem/C) | [GNU C++17](./codeforces/1807/C.cpp) | `implementation` `strings` | Mar/19/2023 20:39 | 
 30 | [B - Vaccination](https://codeforces.com/contest/1804/problem/B) | [GNU C++17](./codeforces/1804/B.cpp) | `greedy` `implementation` `two pointers` | Mar/12/2023 20:30 | 
 29 | [A - Lame King](https://codeforces.com/contest/1804/problem/A) | [GNU C++17](./codeforces/1804/A.cpp) | `greedy` `math` | Mar/12/2023 20:14 | 
 28 | [C - Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | [GNU C++17](./codeforces/1794/C.cpp) | `binary search` `greedy` `math` `two pointers` | Mar/05/2023 00:34 | 

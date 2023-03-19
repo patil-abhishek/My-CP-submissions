@@ -507,6 +507,22 @@
     ],
     "timestamp": "Mar/12/2023 20:30"
   },
+  "CF198149265": {
+    "contest_id": 1807,
+    "language": "GNU C++17",
+    "path": "codeforces\\1807\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find and Replace",
+    "problem_url": "https://codeforces.com/contest/1807/problem/C",
+    "submission_id": "CF198149265",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198149265",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Mar/19/2023 20:39"
+  },
   "CF198165478": {
     "contest_id": 1807,
     "language": "GNU C++17",
