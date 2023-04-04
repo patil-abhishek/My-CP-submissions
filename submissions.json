@@ -674,5 +674,20 @@
       "number theory"
     ],
     "timestamp": "Mar/31/2023 20:49"
+  },
+  "CF200719179": {
+    "contest_id": 1811,
+    "language": "GNU C++17",
+    "path": "codeforces\\1811\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Conveyor Belts",
+    "problem_url": "https://codeforces.com/contest/1811/problem/B",
+    "submission_id": "CF200719179",
+    "submission_url": "https://codeforces.com/contest/1811/submission/200719179",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/04/2023 20:34"
   }
 }
